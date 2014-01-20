@@ -1,0 +1,47 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "18494A8D-4362-4B38-8DC1-08649C6467E8",
+    "appKeys": {
+        "dummy": 0
+    },
+    "longName": "No Fuss",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "No Fuss",
+    "companyName": "James Fowler",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "BLUETOOTH",
+                "file": "images/bluetooth.png"
+            },
+            {
+                "type": "png",
+                "name": "BATTERY_CHARGE",
+                "file": "images/battery-charge.png"
+            },
+            {
+                "type": "png",
+                "name": "BATTERY_ICON",
+                "file": "images/battery_icon.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/nofuss_logo.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND",
+                "file": "images/nofuss.png"
+            }
+        ]
+    }
+}
